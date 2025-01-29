@@ -1,3 +1,5 @@
 Hello Professor
 ## This is my first homework
--Figuring out Git
+-You need to learn the commands
+##Notes
+-You need to push the commits to git
